@@ -1,0 +1,71 @@
+SAPATH=/opt/opsware/SALib/; export SAPATH
+PYTHONPATH=${SAPATH}:${PYTHONPATH}; export PYTHONPATH
+PYTHONBIN=/opt/opsware/bin/python2; export PYTHONBIN
+sacli () {
+${PYTHONBIN} ${SAPATH}/sacli.py "$@"
+${PYTHONBIN} ${SAPATH}/usage_stats.py sacli "$@"
+}
+appconfig() {
+${PYTHONBIN} ${SAPATH}/appconfig.py "$@"
+${PYTHONBIN} ${SAPATH}/usage_stats.py appconfig "$@"
+}
+spolicy() {
+${PYTHONBIN} ${SAPATH}/spolicy.py "$@"
+${PYTHONBIN} ${SAPATH}/usage_stats.py spolicy "$@"
+}
+package() {
+${PYTHONBIN} ${SAPATH}/package.py "$@"
+${PYTHONBIN} ${SAPATH}/usage_stats.py package "$@"
+}
+platform() {
+${PYTHONBIN} ${SAPATH}/platform.py "$@"
+${PYTHONBIN} ${SAPATH}/usage_stats.py platform "$@"
+}
+customer() {
+${PYTHONBIN} ${SAPATH}/customer.py "$@"
+${PYTHONBIN} ${SAPATH}/usage_stats.py customer "$@"
+}
+customfield() {
+${PYTHONBIN} ${SAPATH}/customfield.py "$@"
+${PYTHONBIN} ${SAPATH}/usage_stats.py customfield "$@"
+}
+folder() {
+${PYTHONBIN} ${SAPATH}/folder.py "$@"
+${PYTHONBIN} ${SAPATH}/usage_stats.py folder "$@"
+}
+server() {
+${PYTHONBIN} ${SAPATH}/server.py "$@"
+${PYTHONBIN} ${SAPATH}/usage_stats.py server "$@"
+}
+cache() {
+${PYTHONBIN} ${SAPATH}/cache.py "$@"
+${PYTHONBIN} ${SAPATH}/usage_stats.py cache "$@"
+}
+tokenstore() {
+${PYTHONBIN} ${SAPATH}/tokenstore.py "$@"
+${PYTHONBIN} ${SAPATH}/usage_stats.py tokenstore "$@"
+}
+servergroup() {
+${PYTHONBIN} ${SAPATH}/servergroup.py "$@"
+${PYTHONBIN} ${SAPATH}/usage_stats.py servergroup "$@"
+}
+job() {
+${PYTHONBIN} ${SAPATH}/job.py "$@"
+${PYTHONBIN} ${SAPATH}/usage_stats.py job "$@"
+}
+sapx() {
+${PYTHONBIN} ${SAPATH}/sapx.py "$@"
+${PYTHONBIN} ${SAPATH}/usage_stats.py sapx "$@"
+}
+serverscript() {
+${PYTHONBIN} ${SAPATH}/serverscript.py "$@"
+${PYTHONBIN} ${SAPATH}/usage_stats.py serverscript "$@"
+}
+ogfsscript() {
+${PYTHONBIN} ${SAPATH}/ogfsscript.py "$@"
+${PYTHONBIN} ${SAPATH}/usage_stats.py ogfsscript "$@"
+}
+cml() {
+${PYTHONBIN} ${SAPATH}/cml.py "$@"
+${PYTHONBIN} ${SAPATH}/usage_stats.py cml "$@"
+}

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sysops/!svn/ver/2112/applications/HPSA/SALib/sacli/baseline
+END
+get_sp_jobid.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sysops/!svn/ver/1382/applications/HPSA/SALib/sacli/baseline/get_sp_jobid.py
+END
+sacliutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sysops/!svn/ver/2079/applications/HPSA/SALib/sacli/baseline/sacliutil.py
+END
+SALib.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sysops/!svn/ver/1763/applications/HPSA/SALib/sacli/baseline/SALib.py
+END
+package.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sysops/!svn/ver/757/applications/HPSA/SALib/sacli/baseline/package.py
+END
+sacli.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sysops/!svn/ver/366/applications/HPSA/SALib/sacli/baseline/sacli.py
+END
+serverscript.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sysops/!svn/ver/999/applications/HPSA/SALib/sacli/baseline/serverscript.py
+END
+tokenstore.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sysops/!svn/ver/366/applications/HPSA/SALib/sacli/baseline/tokenstore.py
+END
+customer.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sysops/!svn/ver/1151/applications/HPSA/SALib/sacli/baseline/customer.py
+END
+cache.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sysops/!svn/ver/366/applications/HPSA/SALib/sacli/baseline/cache.py
+END
+OOLib.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sysops/!svn/ver/925/applications/HPSA/SALib/sacli/baseline/OOLib.py
+END
+appconfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sysops/!svn/ver/1178/applications/HPSA/SALib/sacli/baseline/appconfig.py
+END
+server.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sysops/!svn/ver/1382/applications/HPSA/SALib/sacli/baseline/server.py
+END
+job.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sysops/!svn/ver/1373/applications/HPSA/SALib/sacli/baseline/job.py
+END
+sapx.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sysops/!svn/ver/450/applications/HPSA/SALib/sacli/baseline/sapx.py
+END
+folder.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sysops/!svn/ver/763/applications/HPSA/SALib/sacli/baseline/folder.py
+END
+cml.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sysops/!svn/ver/1232/applications/HPSA/SALib/sacli/baseline/cml.py
+END
+ooclient.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sysops/!svn/ver/1190/applications/HPSA/SALib/sacli/baseline/ooclient.py
+END
+customfield.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sysops/!svn/ver/366/applications/HPSA/SALib/sacli/baseline/customfield.py
+END
+spolicy.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sysops/!svn/ver/972/applications/HPSA/SALib/sacli/baseline/spolicy.py
+END
+usage_stats.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sysops/!svn/ver/2078/applications/HPSA/SALib/sacli/baseline/usage_stats.py
+END
+ogfsscript.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sysops/!svn/ver/2112/applications/HPSA/SALib/sacli/baseline/ogfsscript.py
+END
+servergroup.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sysops/!svn/ver/787/applications/HPSA/SALib/sacli/baseline/servergroup.py
+END
+platform.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sysops/!svn/ver/1152/applications/HPSA/SALib/sacli/baseline/platform.py
+END
+dns_cache_refresh.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sysops/!svn/ver/366/applications/HPSA/SALib/sacli/baseline/dns_cache_refresh.py
+END
+cli-template.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sysops/!svn/ver/366/applications/HPSA/SALib/sacli/baseline/cli-template.tpl
+END
